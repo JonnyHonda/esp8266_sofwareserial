@@ -1,0 +1,18 @@
+{
+    "name": "ESP8266 - Software Serial",
+    "keywords": ESP8266,serial",
+    "description": "THe ESP8266 compatible Software Serial Library",
+    "authors":
+    {
+        "name": "Peter Lerup",
+        "email": "peter@lerup.com",
+        "url": ""
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/JonnyHonda/esp8266_sofwareserial.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
